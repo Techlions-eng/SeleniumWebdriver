@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-06T15:24:55 EDT" name="Surefire suite" finished-at="2026-05-06T15:24:55 EDT" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2026-05-06T15:24:55 EDT" name="Surefire test" finished-at="2026-05-06T15:24:55 EDT" duration-ms="46">
+      <class name="TestNGPractice.FirstTest">
+        <test-method signature="openapp()[pri:1, instance:TestNGPractice.FirstTest@4c6e276e]" started-at="2026-05-06T15:24:55 EDT" name="openapp" finished-at="2026-05-06T15:24:55 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="login()[pri:2, instance:TestNGPractice.FirstTest@4c6e276e]" started-at="2026-05-06T15:24:55 EDT" name="login" finished-at="2026-05-06T15:24:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:3, instance:TestNGPractice.FirstTest@4c6e276e]" started-at="2026-05-06T15:24:55 EDT" name="logout" finished-at="2026-05-06T15:24:55 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- TestNGPractice.FirstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
